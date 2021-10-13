@@ -51,6 +51,7 @@ export const Formulaire = () => {
           type="email"
           placeholder="Your email"
         />
+        <button type="submit">Submit</button>
       </Form>
     </Formik>
   );
